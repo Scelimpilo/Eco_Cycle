@@ -958,9 +958,16 @@ section {
   z-index: 2;
   opacity: 0;
 }
-.portfolio ul {
+/* .portfolio ul {
   font-size: 12px;
+} */
+
+.portfolio ul li {
+  font-size: 12px;
+  font-style: italic;
+  
 }
+
 .portfolio .portfolio-wrap img {
   transition: all ease-in-out 0.3s;
 }
